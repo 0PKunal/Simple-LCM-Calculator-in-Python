@@ -57,3 +57,8 @@ copies or substantial portions of the Software.
 ```
 
 ---
+
+<div align="center">
+  <p>Made with ❤️ by <a href="https://github.com/0PKunal">0PKunal</a></p>
+  <p>If this project helped you, please give it a ⭐️</p>
+</div>
