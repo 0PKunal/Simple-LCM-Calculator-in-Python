@@ -9,25 +9,29 @@ A minimal Python program to calculate the **Least Common Multiple (LCM)** of two
 - Works for multiple test cases.
 
 ## Usage
-1. Clone the repo:
+1. Clone the repository:
    ```bash
    git clone https://github.com/0PKunal/Simple-LCM-Calculator-in-Python.git
+
+
+2. Navigate into the folder:
+
+   ```bash
    cd Simple-LCM-Calculator-in-Python
-
-
-2. Run the script:
+   ```
+3. Run the script:
 
    ```bash
    python simple_lcm_calculator.py
    ```
-3. Enter two numbers when prompted.
-   Example:
 
-   ```
-   Enter the First number: 6
-   Enter the Second number: 8
-   LCM of 6 and 8 is: 24
-   ```
+## Example
+ Enter two numbers when prompted
+```
+Enter the First number: 6
+Enter the Second number: 8
+LCM of 6 and 8 is: 24
+```
 
 ## File
 
