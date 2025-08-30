@@ -1,4 +1,4 @@
-````markdown
+
 # Simple LCM Calculator in Python
 
 A minimal Python program to calculate the **Least Common Multiple (LCM)** of two integers.
@@ -13,7 +13,7 @@ A minimal Python program to calculate the **Least Common Multiple (LCM)** of two
    ```bash
    git clone https://github.com/0PKunal/Simple-LCM-Calculator-in-Python.git
    cd Simple-LCM-Calculator-in-Python
-````
+
 
 2. Run the script:
 
